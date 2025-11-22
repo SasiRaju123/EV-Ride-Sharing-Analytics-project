@@ -1,0 +1,301 @@
+vehicle_id,model,brand,type,battery_capacity_kWh,range_km,purchase_year
+V0001,Tata Nano EV,Tata,Auto,9.2,118,2022
+V0002,Hyundai Kona,Hyundai,Sedan,40.5,504,2023
+V0003,Ather 450X,Ather,Bike,2.9,73,2023
+V0004,Tata Nano EV,Tata,Auto,9.7,127,2022
+V0005,Tata Nexon EV,Tata,SUV,29.5,325,2022
+V0006,Mahindra Treo,Mahindra,Auto,5.9,96,2022
+V0007,Ather 450X,Ather,Bike,2.9,63,2023
+V0008,Mahindra Treo,Mahindra,Auto,5.5,95,2023
+V0009,Tata Nexon EV,Tata,SUV,28.7,319,2023
+V0010,BYD e6,BYD,Sedan,68.4,461,2024
+V0011,Mahindra Treo,Mahindra,Auto,6.4,98,2023
+V0012,Tata Nexon EV,Tata,SUV,30.3,276,2024
+V0013,Hyundai Kona,Hyundai,Sedan,38.1,453,2023
+V0014,Ather 450X,Ather,Bike,2.7,77,2024
+V0015,Tata Nano EV,Tata,Auto,8.7,117,2022
+V0016,Tata Nexon EV,Tata,SUV,29.3,358,2022
+V0017,MG ZS EV,MG,Sedan,44.5,384,2024
+V0018,Hyundai Kona,Hyundai,Sedan,40.8,406,2022
+V0019,BYD e6,BYD,Sedan,72.4,438,2022
+V0020,Tata Nexon EV,Tata,SUV,28.2,316,2022
+V0021,Hyundai Kona,Hyundai,Sedan,40.6,456,2024
+V0022,Ather 450X,Ather,Bike,2.9,73,2022
+V0023,Mahindra Treo,Mahindra,Auto,5.6,94,2023
+V0024,Hyundai Kona,Hyundai,Sedan,38.3,488,2022
+V0025,Ather 450X,Ather,Bike,2.9,64,2022
+V0026,Tata Nexon EV,Tata,SUV,30.7,302,2024
+V0027,BYD e6,BYD,Sedan,69.3,545,2024
+V0028,Ola S1 Pro,Ola,Bike,3.0,96,2024
+V0029,MG ZS EV,MG,Sedan,42.6,409,2023
+V0030,Hyundai Kona,Hyundai,Sedan,39.8,485,2022
+V0031,Ola S1 Pro,Ola,Bike,2.8,88,2023
+V0032,Ola S1 Pro,Ola,Bike,2.7,81,2025
+V0033,Tata Nexon EV,Tata,SUV,31.4,345,2024
+V0034,Ather 450X,Ather,Bike,2.9,81,2024
+V0035,Mahindra Treo,Mahindra,Auto,6.1,94,2023
+V0036,Mahindra Treo,Mahindra,Auto,6.1,112,2024
+V0037,Tata Nexon EV,Tata,SUV,30.1,351,2024
+V0038,Tata Nano EV,Tata,Auto,7.8,127,2023
+V0039,MG ZS EV,MG,Sedan,44.7,409,2023
+V0040,BYD e6,BYD,Sedan,72.0,437,2025
+V0041,BYD e6,BYD,Sedan,70.9,534,2023
+V0042,Hyundai Kona,Hyundai,Sedan,42.1,431,2023
+V0043,Ather 450X,Ather,Bike,2.8,71,2024
+V0044,Tata Nexon EV,Tata,SUV,31.6,320,2025
+V0045,MG ZS EV,MG,Sedan,43.3,437,2023
+V0046,Ola S1 Pro,Ola,Bike,2.9,96,2025
+V0047,Tata Nano EV,Tata,Auto,8.7,116,2022
+V0048,Tata Nano EV,Tata,Auto,8.8,105,2023
+V0049,Ola S1 Pro,Ola,Bike,2.9,91,2025
+V0050,Tata Nano EV,Tata,Auto,9.0,117,2025
+V0051,Tata Nexon EV,Tata,SUV,28.1,301,2025
+V0052,Hyundai Kona,Hyundai,Sedan,38.5,421,2022
+V0053,Tata Nano EV,Tata,Auto,8.9,123,2024
+V0054,MG ZS EV,MG,Sedan,48.7,425,2022
+V0055,Hyundai Kona,Hyundai,Sedan,39.7,447,2025
+V0056,Ola S1 Pro,Ola,Bike,2.6,89,2025
+V0057,Mahindra Treo,Mahindra,Auto,6.0,119,2024
+V0058,Ola S1 Pro,Ola,Bike,2.9,92,2022
+V0059,Hyundai Kona,Hyundai,Sedan,39.1,407,2023
+V0060,Ola S1 Pro,Ola,Bike,3.1,95,2024
+V0061,Ola S1 Pro,Ola,Bike,3.0,83,2022
+V0062,MG ZS EV,MG,Sedan,47.6,372,2025
+V0063,Mahindra Treo,Mahindra,Auto,6.2,117,2022
+V0064,MG ZS EV,MG,Sedan,42.3,400,2024
+V0065,Ather 450X,Ather,Bike,2.9,71,2022
+V0066,Ather 450X,Ather,Bike,2.7,75,2022
+V0067,Tata Nano EV,Tata,Auto,8.5,124,2025
+V0068,Tata Nano EV,Tata,Auto,8.6,134,2023
+V0069,Ola S1 Pro,Ola,Bike,2.8,87,2025
+V0070,Ola S1 Pro,Ola,Bike,3.0,81,2024
+V0071,Tata Nexon EV,Tata,SUV,30.5,344,2023
+V0072,Ather 450X,Ather,Bike,2.7,76,2024
+V0073,Tata Nexon EV,Tata,SUV,30.6,331,2024
+V0074,BYD e6,BYD,Sedan,67.3,465,2025
+V0075,Tata Nano EV,Tata,Auto,9.2,122,2023
+V0076,Ather 450X,Ather,Bike,2.9,77,2022
+V0077,MG ZS EV,MG,Sedan,43.0,427,2022
+V0078,Ather 450X,Ather,Bike,2.9,70,2023
+V0079,Mahindra Treo,Mahindra,Auto,6.6,103,2022
+V0080,Mahindra Treo,Mahindra,Auto,5.6,105,2023
+V0081,Tata Nano EV,Tata,Auto,8.6,127,2022
+V0082,MG ZS EV,MG,Sedan,47.1,392,2022
+V0083,Ather 450X,Ather,Bike,3.0,77,2024
+V0084,BYD e6,BYD,Sedan,74.6,598,2023
+V0085,Ola S1 Pro,Ola,Bike,2.9,84,2025
+V0086,Ather 450X,Ather,Bike,2.8,70,2025
+V0087,Tata Nexon EV,Tata,SUV,30.1,320,2023
+V0088,Tata Nano EV,Tata,Auto,9.1,127,2022
+V0089,Tata Nexon EV,Tata,SUV,30.2,348,2024
+V0090,Tata Nexon EV,Tata,SUV,29.8,379,2025
+V0091,BYD e6,BYD,Sedan,73.9,484,2022
+V0092,Tata Nano EV,Tata,Auto,8.5,124,2022
+V0093,Tata Nexon EV,Tata,SUV,29.9,329,2024
+V0094,Tata Nano EV,Tata,Auto,9.2,119,2023
+V0095,Ather 450X,Ather,Bike,2.8,65,2023
+V0096,BYD e6,BYD,Sedan,70.1,555,2023
+V0097,Tata Nexon EV,Tata,SUV,30.5,280,2023
+V0098,Hyundai Kona,Hyundai,Sedan,39.5,463,2025
+V0099,Ather 450X,Ather,Bike,2.8,75,2022
+V0100,BYD e6,BYD,Sedan,71.9,472,2022
+V0101,Mahindra Treo,Mahindra,Auto,6.1,104,2022
+V0102,Tata Nano EV,Tata,Auto,9.5,130,2023
+V0103,Ola S1 Pro,Ola,Bike,2.7,83,2025
+V0104,BYD e6,BYD,Sedan,73.5,541,2025
+V0105,Ather 450X,Ather,Bike,3.0,98,2025
+V0106,Mahindra Treo,Mahindra,Auto,6.2,109,2023
+V0107,Tata Nexon EV,Tata,SUV,31.6,328,2022
+V0108,Tata Nexon EV,Tata,SUV,29.7,330,2024
+V0109,BYD e6,BYD,Sedan,68.9,510,2024
+V0110,Tata Nexon EV,Tata,SUV,29.5,314,2025
+V0111,Ola S1 Pro,Ola,Bike,3.2,76,2023
+V0112,Hyundai Kona,Hyundai,Sedan,40.5,391,2023
+V0113,Mahindra Treo,Mahindra,Auto,5.9,108,2022
+V0114,MG ZS EV,MG,Sedan,44.6,383,2022
+V0115,Mahindra Treo,Mahindra,Auto,5.8,105,2025
+V0116,Ola S1 Pro,Ola,Bike,2.8,91,2022
+V0117,Tata Nano EV,Tata,Auto,9.0,113,2023
+V0118,Tata Nano EV,Tata,Auto,10.0,126,2022
+V0119,Ather 450X,Ather,Bike,2.6,76,2025
+V0120,Tata Nano EV,Tata,Auto,8.7,128,2023
+V0121,Mahindra Treo,Mahindra,Auto,5.8,99,2022
+V0122,Tata Nexon EV,Tata,SUV,31.0,333,2024
+V0123,Hyundai Kona,Hyundai,Sedan,36.8,437,2023
+V0124,MG ZS EV,MG,Sedan,43.4,398,2023
+V0125,Hyundai Kona,Hyundai,Sedan,42.7,464,2025
+V0126,Ola S1 Pro,Ola,Bike,2.7,96,2024
+V0127,BYD e6,BYD,Sedan,79.3,562,2024
+V0128,Tata Nano EV,Tata,Auto,8.3,115,2022
+V0129,BYD e6,BYD,Sedan,76.2,490,2022
+V0130,Tata Nano EV,Tata,Auto,9.2,127,2023
+V0131,Hyundai Kona,Hyundai,Sedan,37.4,447,2023
+V0132,MG ZS EV,MG,Sedan,37.3,385,2022
+V0133,Ather 450X,Ather,Bike,2.9,67,2024
+V0134,Hyundai Kona,Hyundai,Sedan,42.4,398,2023
+V0135,BYD e6,BYD,Sedan,70.1,525,2024
+V0136,Mahindra Treo,Mahindra,Auto,6.4,88,2024
+V0137,Tata Nano EV,Tata,Auto,9.5,120,2023
+V0138,Hyundai Kona,Hyundai,Sedan,37.3,466,2022
+V0139,Tata Nano EV,Tata,Auto,9.1,114,2023
+V0140,Hyundai Kona,Hyundai,Sedan,39.3,436,2024
+V0141,Ather 450X,Ather,Bike,2.9,78,2024
+V0142,Ather 450X,Ather,Bike,3.1,67,2024
+V0143,BYD e6,BYD,Sedan,79.3,438,2024
+V0144,Mahindra Treo,Mahindra,Auto,6.0,104,2022
+V0145,Tata Nexon EV,Tata,SUV,30.6,296,2024
+V0146,Mahindra Treo,Mahindra,Auto,5.9,96,2022
+V0147,MG ZS EV,MG,Sedan,43.2,448,2023
+V0148,Hyundai Kona,Hyundai,Sedan,39.9,425,2023
+V0149,BYD e6,BYD,Sedan,74.9,532,2025
+V0150,Mahindra Treo,Mahindra,Auto,6.2,105,2022
+V0151,Tata Nano EV,Tata,Auto,8.6,114,2023
+V0152,Mahindra Treo,Mahindra,Auto,6.2,104,2024
+V0153,Ola S1 Pro,Ola,Bike,2.9,90,2025
+V0154,Ola S1 Pro,Ola,Bike,3.1,85,2022
+V0155,Hyundai Kona,Hyundai,Sedan,40.3,442,2024
+V0156,Mahindra Treo,Mahindra,Auto,5.9,108,2024
+V0157,Ather 450X,Ather,Bike,3.0,79,2023
+V0158,Tata Nano EV,Tata,Auto,9.6,120,2024
+V0159,Tata Nexon EV,Tata,SUV,31.2,304,2023
+V0160,Ather 450X,Ather,Bike,2.9,74,2023
+V0161,Ola S1 Pro,Ola,Bike,2.9,94,2025
+V0162,Mahindra Treo,Mahindra,Auto,5.8,116,2023
+V0163,MG ZS EV,MG,Sedan,42.3,379,2025
+V0164,Ather 450X,Ather,Bike,3.1,79,2024
+V0165,Ola S1 Pro,Ola,Bike,3.0,94,2022
+V0166,Tata Nexon EV,Tata,SUV,30.2,289,2022
+V0167,BYD e6,BYD,Sedan,72.0,491,2023
+V0168,Ather 450X,Ather,Bike,3.0,74,2025
+V0169,MG ZS EV,MG,Sedan,42.7,409,2024
+V0170,Ather 450X,Ather,Bike,3.0,71,2023
+V0171,Mahindra Treo,Mahindra,Auto,5.8,101,2023
+V0172,Tata Nexon EV,Tata,SUV,30.6,299,2024
+V0173,Hyundai Kona,Hyundai,Sedan,38.3,458,2022
+V0174,Hyundai Kona,Hyundai,Sedan,36.4,399,2024
+V0175,Tata Nexon EV,Tata,SUV,29.1,306,2024
+V0176,Mahindra Treo,Mahindra,Auto,6.1,111,2022
+V0177,Hyundai Kona,Hyundai,Sedan,40.9,444,2023
+V0178,Hyundai Kona,Hyundai,Sedan,39.2,413,2022
+V0179,Tata Nano EV,Tata,Auto,9.0,117,2025
+V0180,MG ZS EV,MG,Sedan,45.2,392,2024
+V0181,Tata Nexon EV,Tata,SUV,31.0,350,2022
+V0182,Tata Nexon EV,Tata,SUV,30.0,322,2023
+V0183,Hyundai Kona,Hyundai,Sedan,40.6,435,2022
+V0184,Tata Nexon EV,Tata,SUV,30.5,312,2022
+V0185,Ather 450X,Ather,Bike,2.9,70,2024
+V0186,Tata Nexon EV,Tata,SUV,30.2,324,2022
+V0187,MG ZS EV,MG,Sedan,47.7,452,2024
+V0188,Tata Nano EV,Tata,Auto,10.0,112,2024
+V0189,Hyundai Kona,Hyundai,Sedan,40.9,456,2025
+V0190,MG ZS EV,MG,Sedan,49.4,392,2025
+V0191,Hyundai Kona,Hyundai,Sedan,37.6,428,2023
+V0192,Ather 450X,Ather,Bike,2.6,71,2025
+V0193,Tata Nexon EV,Tata,SUV,29.1,315,2023
+V0194,Hyundai Kona,Hyundai,Sedan,39.9,517,2025
+V0195,Mahindra Treo,Mahindra,Auto,6.3,95,2024
+V0196,Hyundai Kona,Hyundai,Sedan,37.4,467,2023
+V0197,Tata Nexon EV,Tata,SUV,28.2,357,2024
+V0198,BYD e6,BYD,Sedan,75.9,500,2025
+V0199,BYD e6,BYD,Sedan,65.6,576,2023
+V0200,BYD e6,BYD,Sedan,71.3,571,2023
+V0201,Tata Nano EV,Tata,Auto,8.3,114,2024
+V0202,MG ZS EV,MG,Sedan,44.5,421,2022
+V0203,Ather 450X,Ather,Bike,2.8,78,2024
+V0204,Ather 450X,Ather,Bike,2.7,74,2023
+V0205,Ola S1 Pro,Ola,Bike,2.9,93,2022
+V0206,Mahindra Treo,Mahindra,Auto,6.2,91,2023
+V0207,BYD e6,BYD,Sedan,66.2,573,2022
+V0208,BYD e6,BYD,Sedan,72.9,488,2025
+V0209,Ather 450X,Ather,Bike,3.1,75,2025
+V0210,BYD e6,BYD,Sedan,75.9,522,2025
+V0211,Ather 450X,Ather,Bike,3.2,85,2023
+V0212,Mahindra Treo,Mahindra,Auto,5.9,107,2022
+V0213,Tata Nexon EV,Tata,SUV,31.2,346,2023
+V0214,Ola S1 Pro,Ola,Bike,2.8,94,2025
+V0215,Mahindra Treo,Mahindra,Auto,6.3,85,2023
+V0216,Tata Nano EV,Tata,Auto,8.5,100,2025
+V0217,Ola S1 Pro,Ola,Bike,2.9,95,2025
+V0218,MG ZS EV,MG,Sedan,47.8,422,2025
+V0219,Tata Nexon EV,Tata,SUV,32.7,277,2025
+V0220,Ola S1 Pro,Ola,Bike,2.7,89,2025
+V0221,BYD e6,BYD,Sedan,73.1,518,2024
+V0222,Ather 450X,Ather,Bike,2.6,74,2024
+V0223,BYD e6,BYD,Sedan,67.0,547,2023
+V0224,Hyundai Kona,Hyundai,Sedan,39.9,416,2025
+V0225,Tata Nano EV,Tata,Auto,8.8,109,2024
+V0226,Ather 450X,Ather,Bike,2.9,80,2024
+V0227,MG ZS EV,MG,Sedan,42.3,436,2024
+V0228,Tata Nano EV,Tata,Auto,8.8,112,2023
+V0229,Ola S1 Pro,Ola,Bike,2.9,82,2023
+V0230,Tata Nexon EV,Tata,SUV,29.4,282,2023
+V0231,Ather 450X,Ather,Bike,3.2,75,2022
+V0232,Tata Nexon EV,Tata,SUV,29.1,317,2025
+V0233,MG ZS EV,MG,Sedan,44.3,412,2025
+V0234,Tata Nexon EV,Tata,SUV,31.1,330,2022
+V0235,Ather 450X,Ather,Bike,2.8,71,2025
+V0236,Tata Nexon EV,Tata,SUV,29.8,254,2022
+V0237,Tata Nexon EV,Tata,SUV,27.9,346,2025
+V0238,Mahindra Treo,Mahindra,Auto,6.5,98,2024
+V0239,Hyundai Kona,Hyundai,Sedan,40.3,461,2025
+V0240,Tata Nexon EV,Tata,SUV,34.8,339,2023
+V0241,BYD e6,BYD,Sedan,71.2,480,2023
+V0242,Hyundai Kona,Hyundai,Sedan,36.1,457,2025
+V0243,BYD e6,BYD,Sedan,69.0,460,2022
+V0244,Tata Nexon EV,Tata,SUV,29.2,285,2024
+V0245,Tata Nexon EV,Tata,SUV,32.7,334,2023
+V0246,BYD e6,BYD,Sedan,71.7,581,2023
+V0247,Mahindra Treo,Mahindra,Auto,6.0,93,2025
+V0248,Mahindra Treo,Mahindra,Auto,6.5,104,2022
+V0249,Tata Nexon EV,Tata,SUV,28.6,307,2023
+V0250,BYD e6,BYD,Sedan,68.6,462,2023
+V0251,Mahindra Treo,Mahindra,Auto,6.3,115,2024
+V0252,Tata Nexon EV,Tata,SUV,28.1,326,2024
+V0253,Ather 450X,Ather,Bike,2.8,72,2025
+V0254,MG ZS EV,MG,Sedan,43.2,390,2024
+V0255,Tata Nexon EV,Tata,SUV,30.3,291,2024
+V0256,Tata Nexon EV,Tata,SUV,30.6,310,2024
+V0257,Tata Nano EV,Tata,Auto,8.9,111,2025
+V0258,Mahindra Treo,Mahindra,Auto,5.8,106,2022
+V0259,MG ZS EV,MG,Sedan,45.6,387,2023
+V0260,Tata Nano EV,Tata,Auto,9.0,127,2022
+V0261,Mahindra Treo,Mahindra,Auto,5.5,104,2023
+V0262,Ather 450X,Ather,Bike,2.8,78,2022
+V0263,Ola S1 Pro,Ola,Bike,2.8,77,2023
+V0264,Ola S1 Pro,Ola,Bike,2.7,90,2025
+V0265,Tata Nano EV,Tata,Auto,9.1,111,2023
+V0266,BYD e6,BYD,Sedan,74.0,450,2024
+V0267,MG ZS EV,MG,Sedan,44.4,379,2023
+V0268,Tata Nano EV,Tata,Auto,8.7,120,2023
+V0269,Hyundai Kona,Hyundai,Sedan,37.5,436,2022
+V0270,Mahindra Treo,Mahindra,Auto,6.3,95,2024
+V0271,Tata Nexon EV,Tata,SUV,31.5,283,2025
+V0272,Ather 450X,Ather,Bike,3.0,83,2022
+V0273,Ather 450X,Ather,Bike,2.5,70,2022
+V0274,Hyundai Kona,Hyundai,Sedan,40.3,442,2022
+V0275,Mahindra Treo,Mahindra,Auto,6.1,95,2024
+V0276,Tata Nexon EV,Tata,SUV,30.3,308,2024
+V0277,Tata Nano EV,Tata,Auto,9.5,122,2024
+V0278,Mahindra Treo,Mahindra,Auto,6.1,96,2025
+V0279,BYD e6,BYD,Sedan,70.0,502,2022
+V0280,Tata Nexon EV,Tata,SUV,30.8,301,2024
+V0281,BYD e6,BYD,Sedan,72.7,606,2023
+V0282,Tata Nexon EV,Tata,SUV,31.5,303,2023
+V0283,Hyundai Kona,Hyundai,Sedan,41.6,435,2025
+V0284,BYD e6,BYD,Sedan,64.4,478,2025
+V0285,Hyundai Kona,Hyundai,Sedan,35.5,437,2024
+V0286,Ather 450X,Ather,Bike,2.9,85,2022
+V0287,Hyundai Kona,Hyundai,Sedan,39.8,442,2025
+V0288,Ather 450X,Ather,Bike,3.0,61,2025
+V0289,Tata Nexon EV,Tata,SUV,30.6,331,2024
+V0290,Mahindra Treo,Mahindra,Auto,5.6,109,2025
+V0291,MG ZS EV,MG,Sedan,45.3,406,2023
+V0292,BYD e6,BYD,Sedan,74.0,614,2023
+V0293,MG ZS EV,MG,Sedan,44.9,428,2024
+V0294,MG ZS EV,MG,Sedan,43.5,391,2024
+V0295,Hyundai Kona,Hyundai,Sedan,40.8,419,2022
+V0296,Ather 450X,Ather,Bike,2.9,72,2022
+V0297,Ather 450X,Ather,Bike,3.0,77,2025
+V0298,BYD e6,BYD,Sedan,75.4,498,2023
+V0299,BYD e6,BYD,Sedan,70.7,479,2025
+V0300,BYD e6,BYD,Sedan,70.1,535,2022
